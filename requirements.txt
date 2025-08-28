@@ -1,0 +1,60 @@
+# Deep Reinforcement Learning Trading System Requirements
+
+# Core Python packages
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning and Deep Learning
+torch
+torchvision
+scikit-learn
+
+# Reinforcement Learning
+gym
+
+# Interactive Brokers API
+ib-insync
+
+# Data handling and utilities
+python-dateutil
+pytz
+
+# Jupyter notebook support
+jupyter
+ipykernel
+ipywidgets
+
+# Progress bars and CLI
+tqdm
+click
+
+# File I/O and serialization
+h5py
+
+# Mathematical operations
+scipy
+statsmodels
+
+# Plotting and visualization
+plotly
+bokeh
+
+# API and web requests
+requests
+urllib3
+
+# Configuration and logging
+pyyaml
+loguru
+
+# Optional: For advanced features
+# Uncomment if needed
+
+# ta-lib  # Technical analysis library (requires separate installation)
+# yfinance  # Yahoo Finance data (alternative data source)
+# alpaca-trade-api  # Alpaca trading API (alternative broker)
+# ccxt  # Cryptocurrency exchange integration
+# quandl  # Quandl financial data
+# fredapi  # Federal Reserve Economic Data

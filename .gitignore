@@ -1,0 +1,6 @@
+.env
+.venv
+*.pth
+.ruff_cache
+__pycache__
+models
