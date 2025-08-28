@@ -174,3 +174,7 @@ This project is licensed under the [Modified MIT License](./LICENSE).
 ### Copyright
 
 (c) 2025 [Finbarrs Oketunji](https://finbarrs.eu). All Rights Reserved.
+
+---
+
+My non-negotiable fee for a custom enterprise trading system is £150,000. [Let's talk](mailto:f+trading@finbarrs.eu) about your requirements.
