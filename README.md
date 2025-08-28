@@ -160,7 +160,7 @@ uv pip install -r requirements.txt
 
 Click the `Run` button to run the individual cell of the [Jupyter Notebook](./drl-ts.ipynb).
 
-> Do not run the cell that initializes the Interactive Brokers Live Trading (Live Trading Integration) and Final Integration (Final Integration and Deployment Script).
+> Do not run the cell that initializes the Interactive Brokers Live Trading (Live Trading Integration).
 
 ### License
 
