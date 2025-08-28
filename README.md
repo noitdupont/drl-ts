@@ -2,6 +2,11 @@
 
 It uses [deep reinforcement learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning) to learn market patterns and automatically make buy, sell, or hold decisions, training itself by testing strategies and learning from outcomes.
 
+> [!WARNING]
+> Disclaimer: It is an experimental system; do not use it for actual investment decisions.
+
+> Checkout this [repository](https://github.com/0xnu/deep-reinforcement-learning) if you want to learn more about Deep Reinforcement Learning.
+
 ### Interactive Brokers
 
 Here's a guide for setting up Interactive Brokers for the Deep Reinforcement Learning Trading System:
@@ -169,5 +174,3 @@ This project is licensed under the [Modified MIT License](./LICENSE).
 ### Copyright
 
 (c) 2025 [Finbarrs Oketunji](https://finbarrs.eu). All Rights Reserved.
-
-> Checkout this [repository](https://github.com/0xnu/deep-reinforcement-learning) if you want to learn more about Deep Reinforcement Learning.
