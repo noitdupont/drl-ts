@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.0.3 - 2025-08-29
+* Refinements
+
 ## v0.0.2 - 2025-08-29
 * **Deep Q-Network Agent**: Full DQN implementation with experience replay and target networks
 * **Advanced Training Features**: Multi-agent strategies, sensitivity analysis, and reward shaping
