@@ -1,5 +1,8 @@
 ## Deep Reinforcement Learning (DRL) Trading System
 
+[![Release](https://img.shields.io/github/release/0xnu/drl-ts.svg)](https://github.com/0xnu/drl-ts/releases/latest)
+[![License](https://img.shields.io/badge/License-Modified_MIT-f5de53?&color=f5de53)](/LICENSE)
+
 It uses [deep reinforcement learning](https://en.wikipedia.org/wiki/Deep_reinforcement_learning) to learn market patterns and automatically make buy, sell, or hold decisions, training itself by testing strategies and learning from outcomes.
 
 > [!WARNING]
