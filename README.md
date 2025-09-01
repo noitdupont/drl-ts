@@ -133,12 +133,12 @@ ib.connect('127.0.0.1', 7497, clientId=1)  # Paper trading
 
 #### Interactive Brokers Market Data
 
-Interactive Brokers (IBKR) requires you to maintain a minimum balance of $500 USD in your funded account to [subscribe to and receive real-time market data](https://www.interactivebrokers.com/en/pricing/market-data-pricing.php?p=mktDataPricing), not as a one-time fee for data access. This $500 balance is a maintenance requirement, in addition to the monthly fees for the specific market data feeds you choose to subscribe to. Whilst basic delayed data may be available, you must have a funded account and select specific data subscriptions to receive live, timely information for trading.
+Interactive Brokers (IBKR) requires you to maintain a minimum balance of $500 USD (£370 GBP) in your funded account to [subscribe to and receive real-time market data](https://www.interactivebrokers.com/en/pricing/market-data-pricing.php?p=mktDataPricing), not as a one-time fee for data access. This $500 (£370 GBP) balance is a maintenance requirement, in addition to the monthly fees for the specific market data feeds you choose to subscribe to. Whilst basic delayed data may be available, you must have a funded account and select specific data subscriptions to receive live, timely information for trading.
 
 You need to subscribe to these market data for the Trading Systems (DRL and Non-DRL) to work properly:
 
-+ NYSE (Network A/CTA)(L1) - $1.50 / month = £ 1.11 / month
-+ NASDAQ (Network C/UTP)(L1) - $1.50 / month = £ 1.11 / month
++ NYSE (Network A/CTA)(L1) - $1.50 / month (£1.11 / month)
++ NASDAQ (Network C/UTP)(L1) - $1.50 / month (£1.11 / month)
 
 #### Paper Trading vs Live Trading
 
