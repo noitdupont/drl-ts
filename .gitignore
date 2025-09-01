@@ -1,6 +1,9 @@
 .env
 .venv
+*.log
 *.pth
 .ruff_cache
 __pycache__
 models
+ticker.py
+TICKER.md

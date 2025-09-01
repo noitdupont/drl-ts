@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.4 - 2025-08-30
+* Interactive Brokers Trading Bot Without Deep Reinforcement Learning
+* Refinements
+
 ## v0.0.3 - 2025-08-29
 * Refinements
 
