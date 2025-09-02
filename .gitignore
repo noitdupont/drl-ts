@@ -2,7 +2,9 @@
 .venv
 *.log
 *.pth
+logs
 .ruff_cache
 __pycache__
 models
 ticker.py
+crypto.ipynb
