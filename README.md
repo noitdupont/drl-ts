@@ -175,7 +175,7 @@ uv pip install -r requirements.txt
 
 ### Run the System
 
-Click the `Run` button to run the individual cell of the [Jupyter Notebook](./drl-ts.ipynb).
+Click the `Run` button to run the individual cell of the [interactive brokers deep reinforcement learning](./notebooks/drl-ts.ipynb) or [interactive brokers day trading](./notebooks/ib-tb-without-drl.ipynb)
 
 > Do not run the cell that initializes the Interactive Brokers Live Trading (Live Trading Integration).
 
