@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.0.6 - 2025-09-04
+* Interactive Brokers Forex Trading Bot
+
 ## v0.0.5 - 2025-09-01
 * Ticker added
 
