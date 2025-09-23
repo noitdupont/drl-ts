@@ -1,0 +1,61 @@
+id,politician,traded_issuer,published,traded,filed_after,owner,type,size,price
+1,Thomas Kean Jr,Amcor PLC,19 Sept 2025,15 Aug 2025,34,Undisclosed,buy,1K–15K,$8.73
+2,Thomas Kean Jr,Canadian Pacific Railway Ltd,19 Sept 2025,22 Aug 2025,27,Undisclosed,buy,1K–15K,$74.81
+3,Thomas Kean Jr,Check Point Software Technologies Ltd,19 Sept 2025,4 Aug 2025,45,Undisclosed,buy,1K–15K,$192.76
+4,Thomas Kean Jr,Microsoft Corp,19 Sept 2025,25 Aug 2025,24,Undisclosed,sell,1K–15K,$504.26
+5,Thomas Kean Jr,Stryker Corp,19 Sept 2025,25 Aug 2025,24,Undisclosed,sell,1K–15K,$390.88
+6,Rick Scott,WASHINGTON COUNTY OREGON,19 Sept 2025,21 Aug 2025,28,Self,buy,500K–1M,N/A
+7,Rick Scott,DALLAS FORT WORTH INTERNATIONAL AIRPORT,19 Sept 2025,11 Sept 2025,7,Spouse,buy,250K–500K,N/A
+8,Rick Scott,METROPOLITAN WATER RECLAMATION DISTRICT OF GREATER CHICAGO,19 Sept 2025,9 Sept 2025,9,Self,buy,500K–1M,N/A
+9,Dan Newhouse,Advanced Micro Devices Inc,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$176.14
+10,Dan Newhouse,AMETEK Inc,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$182.62
+11,Dan Newhouse,Applied Materials Inc,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$163.53
+12,Dan Newhouse,Automatic Data Processing Inc,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$302.65
+13,Dan Newhouse,Blackrock Inc,18 Sept 2025,18 Aug 2025,30,Spouse,sell,1K–15K,"$1,136.12"
+14,Dan Newhouse,Brown & Brown Inc,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$94.95
+15,Dan Newhouse,ConocoPhillips,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$94.00
+16,Dan Newhouse,Exxon Mobil Corp,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$106.72
+17,Dan Newhouse,General Mills Inc,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$49.35
+18,Dan Newhouse,ONEOK Inc,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$73.04
+19,Dan Newhouse,Prologis Inc,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$105.44
+20,Dan Newhouse,Ross Stores Inc,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$146.06
+21,Dan Newhouse,RTX Corp,18 Sept 2025,18 Aug 2025,30,Spouse,sell,1K–15K,$155.50
+22,Dan Newhouse,S&P Global Inc,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$551.21
+23,Dan Newhouse,Target Corp,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$104.95
+24,Dan Newhouse,United Parcel Service Inc,18 Sept 2025,18 Aug 2025,30,Spouse,buy,1K–15K,$86.51
+25,Rich McCormick,Abbott Laboratories,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$97.80
+26,Rich McCormick,Air Products and Chemicals Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$277.04
+27,Rich McCormick,American Tower Corp,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$202.32
+28,Rich McCormick,American Water Works Company Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$140.63
+29,Rich McCormick,Analog Devices Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$182.93
+30,Rich McCormick,Apple Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$152.99
+31,Rich McCormick,Automatic Data Processing Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$213.25
+32,Rich McCormick,BARON ASSET FUND,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,N/A
+33,Rich McCormick,BARON EMERGING MARKETS FUND,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,N/A
+34,Rich McCormick,Blackrock Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$631.74
+35,Rich McCormick,Cisco Systems Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$49.06
+36,Rich McCormick,Costco Wholesale Corp,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$485.66
+37,Rich McCormick,Emerson Electric Co,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$80.53
+38,Rich McCormick,FIDELITY ADVISOR INTERNATIONAL CAPITAL APPRECIATION FUND,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,N/A
+39,Rich McCormick,FIDELITY ADVISOR TOTAL BOND FUND,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,N/A
+40,Rich McCormick,The Home Depot Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$287.97
+41,Rich McCormick,Illinois Tool Works Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$228.55
+42,Rich McCormick,Intercontinental Exchange Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$97.52
+43,Rich McCormick,JANUS HENDERSON FLEXIBLE BOND FUND,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,N/A
+44,Rich McCormick,Johnson & Johnson,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$154.35
+45,Rich McCormick,L3Harris Technologies Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$200.78
+46,Rich McCormick,McDonald's Corp,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$266.34
+47,Rich McCormick,Medtronic PLC,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$78.41
+48,Rich McCormick,Microsoft Corp,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$265.44
+49,Rich McCormick,NEUBERGER BERMAN GENESIS FUND,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,N/A
+50,Rich McCormick,NextEra Energy Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$75.52
+51,Rich McCormick,NUVEEN REAL ESTATE SECURITIES FUND,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,N/A
+52,Rich McCormick,NUVEEN REAL ESTATE SECURITIES FUND,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,N/A
+53,Rich McCormick,Realty Income Corp,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$63.06
+54,Rich McCormick,THORNBURG STRATEGIC INCOME FUND,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,N/A
+55,Rich McCormick,Unitedhealth Group Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$465.43
+56,Rich McCormick,Vanguard Mega Cap Growth ETF,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$190.64
+57,Rich McCormick,Walmart Inc,18 Sept 2025,15 Mar 2023,917,Undisclosed,buy,1K–15K,$139.64
+58,Markwayne Mullin,STATE OF MASSACHUSETTS,17 Sept 2025,9 Sept 2025,8,Joint,buy,50K–100K,N/A
+59,David Taylor,Alphabet Inc,17 Sept 2025,3 Sept 2025,13,Undisclosed,sell,1K–15K,$230.66
+60,David Taylor,Alphabet Inc,17 Sept 2025,3 Sept 2025,13,Undisclosed,sell,1K–15K,$230.66
